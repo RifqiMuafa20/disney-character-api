@@ -1,164 +1,146 @@
 {
-    "info": {
-      "count": 50,
-      "totalPages": 149,
-      "previousPage": null,
-      "nextPage": "http://api.disneyapi.dev/character?page=2&pageSize=50"
+  "info": {
+    "count": 50,
+    "totalPages": 149,
+    "previousPage": null,
+    "nextPage": "http://api.disneyapi.dev/character?page=2&pageSize=50"
+  },
+  "data": [
+    {
+      "_id": 112,
+      "films": ["Hercules (film)"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Achilles_(Hercules)",
+      "name": "Achilles",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d3/Vlcsnap-2015-05-06-23h04m15s601.png"
     },
-    "data": [
-      {
-        "_id": 112,
-        "films": ["Hercules (film)"],
-        "shortFilms": [],
-        "tvShows": ["Hercules (TV series)"],
-        "videoGames": ["Kingdom Hearts III"],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Achilles_(Hercules)",
-        "name": "Achilles",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d3/Vlcsnap-2015-05-06-23h04m15s601.png",
-        "createdAt": "2021-04-12T01:31:30.547Z",
-        "updatedAt": "2021-12-20T20:39:18.033Z",
-        "url": "https://api.disneyapi.dev/characters/112",
-        "__v": 0
-      },
-      {
-        "_id": 18,
-        "films": ["The Fox and the Hound", "The Fox and the Hound 2"],
-        "shortFilms": [],
-        "tvShows": [],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Abigail_the_Cow",
-        "name": "Abigail the Cow",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/05/Fox-disneyscreencaps_com-901.jpg",
-        "createdAt": "2021-04-12T01:26:03.413Z",
-        "updatedAt": "2021-12-20T20:39:18.032Z",
-        "url": "https://api.disneyapi.dev/characters/18",
-        "__v": 0
-      },
-      {
-        "_id": 16,
-        "films": ["Cheetah"],
-        "shortFilms": [],
-        "tvShows": [],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Abdullah",
-        "name": "Abdullah",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/cb/1087603-44532-clp-950.jpg",
-        "createdAt": "2021-04-12T01:26:02.377Z",
-        "updatedAt": "2021-12-20T20:39:18.032Z",
-        "url": "https://api.disneyapi.dev/characters/16",
-        "__v": 0
-      },
-      {
-        "_id": 45,
-        "films": ["Mary Poppins (film)", "Mary Poppins Returns"],
-        "shortFilms": [],
-        "tvShows": [],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Admiral_Boom_and_Mr._Binnacle",
-        "name": "Admiral Boom and Mr. Binnacle",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/be/Marypoppins-disneyscreencaps_com-1086.jpg",
-        "createdAt": "2021-04-12T01:26:21.560Z",
-        "updatedAt": "2021-12-20T20:39:18.033Z",
-        "url": "https://api.disneyapi.dev/characters/45",
-        "__v": 0
-      },
-      {
-        "_id": 7,
-        "films": [],
-        "shortFilms": [],
-        "tvShows": ["Gravity Falls"],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/.GIFfany",
-        "name": ".GIFfany",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/51/Giffany.png",
-        "createdAt": "2021-04-12T01:25:10.354Z",
-        "updatedAt": "2021-12-20T20:39:18.032Z",
-        "url": "https://api.disneyapi.dev/characters/7",
-        "__v": 0
-      },
-      {
-        "_id": 12,
-        "films": [],
-        "shortFilms": [],
-        "tvShows": ["Pickle and Peanut"],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/90%27s_Adventure_Bear_(character)",
-        "name": "90's Adventure Bear",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/3/3f/90%27s_Adventure_Bear_profile.png",
-        "createdAt": "2021-04-12T01:26:00.335Z",
-        "updatedAt": "2021-12-20T20:39:18.032Z",
-        "url": "https://api.disneyapi.dev/characters/12",
-        "__v": 0
-      },
-      {
-        "_id": 36,
-        "films": [],
-        "shortFilms": [],
-        "tvShows": ["K.C. Undercover"],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Candace_Adams",
-        "name": "Candace Adams",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/8b/Enemy_of_the_State_promo_3.jpg",
-        "createdAt": "2021-04-12T01:26:16.062Z",
-        "updatedAt": "2021-12-20T20:39:18.033Z",
-        "url": "https://api.disneyapi.dev/characters/36",
-        "__v": 0
-      },
-      {
-        "_id": 139,
-        "films": ["The Lion King", "The Lion King (2019 film)"],
-        "shortFilms": [],
-        "tvShows": [],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Ahadi",
-        "name": "Ahadi",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/b3/Ahadihead.png",
-        "createdAt": "2021-04-12T01:31:47.129Z",
-        "updatedAt": "2021-12-20T20:39:18.877Z",
-        "url": "https://api.disneyapi.dev/characters/139",
-        "__v": 0
-      },
-      {
-        "_id": 152,
-        "films": [],
-        "shortFilms": [],
-        "tvShows": ["Aladdin (TV series)"],
-        "videoGames": [],
-        "parkAttractions": [],
-        "allies": [],
-        "enemies": [],
-        "sourceUrl": "https://disney.fandom.com/wiki/Al_Muddy_Sultan",
-        "name": "Al Muddy Sultan",
-        "imageUrl": "https://static.wikia.nocookie.net/disney/images/e/e0/Almuddyking.jpg",
-        "createdAt": "2021-04-12T01:31:55.281Z",
-        "updatedAt": "2021-12-20T20:39:18.877Z",
-        "url": "https://api.disneyapi.dev/characters/152",
-        "__v": 0
-      }
-    ]
-  }
-  
+    {
+      "_id": 18,
+      "films": ["The Fox and the Hound", "The Fox and the Hound 2"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Abigail_the_Cow",
+      "name": "Abigail the Cow",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/05/Fox-disneyscreencaps_com-901.jpg"
+    },
+    {
+      "_id": 139,
+      "films": ["The Lion King", "The Lion King (2019 film)"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Ahadi",
+      "name": "Ahadi",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/b3/Ahadihead.png"
+    },
+    {
+      "_id": 204,
+      "films": ["The Robber Kitten", "Mickey's Polo Team"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Ambrose",
+      "name": "Ambrose",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/d3/Ambrose.jpg"
+    },
+    {
+      "_id": 215,
+      "films": ["Ben and Me"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Amos",
+      "name": "Amos",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/83/Tve8132-19531110-2244.jpg"
+    },
+    {
+      "_id": 337,
+      "films": ["Homeward Bound II: Lost in San Francisco"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Ashcan_and_Pete",
+      "name": "Ashcan and Pete",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/88/AshcanPete.PNG"
+    },
+    {
+      "_id": 342,
+      "films": ["Bedtime Stories"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Aspen",
+      "name": "Aspen",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/8/8b/Bedtime_stories_aspen.jpg"
+    },
+    {
+      "_id": 350,
+      "films": ["Tomorrowland (film)"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Athena_(Tomorrowland)",
+      "name": "Athena",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/d/db/Athena_Tomorrowland.jpg"
+    },
+    {
+      "_id": 364,
+      "films": ["Return to Oz"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Aunt_Em",
+      "name": "Aunt Em",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/5d/Em4.jpg"
+    },
+    {
+      "_id": 469,
+      "films": ["Mary Poppins (film)", "Mary Poppins Returns"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Michael_Banks",
+      "name": "Michael Banks",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/4/40/Michael_Banks.gif"
+    },
+    {
+      "_id": 500,
+      "films": ["The Sword in the Stone"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Sir_Bart",
+      "name": "Sir Bart",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/6/6d/Sword-in-stone-disneyscreencaps.com-8698.jpg"
+    },
+    {
+      "_id": 566,
+      "films": ["The Haunted Mansion (film)"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Beheaded_Knight",
+      "name": "Beheaded Knight",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/f/fb/Beheaded_Knight.png"
+    },
+    {
+      "_id": 351,
+      "films": [
+        "The Little Mermaid: Ariel's Beginning",
+        "The Little Mermaid (live-action film)"
+      ],
+      "sourceUrl": "https://disney.fandom.com/wiki/Queen_Athena",
+      "name": "Queen Athena",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/4/41/Athena_TLM.jpg"
+    },
+    {
+      "_id": 157,
+      "films": ["Freaky Friday (2003 film)"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Alan_Coleman",
+      "name": "Alan Coleman",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/c/c0/Alan_Coleman.jpg"
+    },
+    {
+      "_id": 206,
+      "films": ["Treasure Planet"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Captain_Amelia",
+      "name": "Captain Amelia",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/0c/Profile_-_Captain_Amelia.png"
+    },
+    {
+      "_id": 223,
+      "films": ["The Cat from Outer Space"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Captain_Anderson",
+      "name": "Captain Anderson",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/b/bc/CaptainAndersonCatFromSpace.jpg"
+    },
+    {
+      "_id": 268,
+      "films": ["The Happiest Millionaire"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Anthony_Biddle",
+      "name": "Anthony Biddle",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/6/64/Images_%2812%29-0.jpg"
+    },
+    {
+      "_id": 278,
+      "films": ["Savage Sam"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Apaches",
+      "name": "Apaches",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/0/0e/Old-yeller-2-movie-collection-20060206040952451-000.jpg"
+    },
+    {
+      "_id": 322,
+      "films": ["Treasure Planet"],
+      "sourceUrl": "https://disney.fandom.com/wiki/Mr._Arrow",
+      "name": "Mr. Arrow",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/5/51/Profile_-_Mr._Arrow.png"
+    }
+  ]
+}
