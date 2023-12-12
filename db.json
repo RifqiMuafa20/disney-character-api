@@ -1,11 +1,4 @@
-{
-  "info": {
-    "count": 50,
-    "totalPages": 149,
-    "previousPage": null,
-    "nextPage": "http://api.disneyapi.dev/character?page=2&pageSize=50"
-  },
-  "data": [
+[
     {
       "_id": 112,
       "films": ["Hercules (film)"],
@@ -159,5 +152,4 @@
       "url": "https://api.disneyapi.dev/characters/152",
       "__v": 0
     }
-  ]
-}
+]
